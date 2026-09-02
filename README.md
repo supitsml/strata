@@ -42,4 +42,4 @@ feature showcase.
 
 | Enchantment |
 | :--- | :--- |
-| <img src="https://github.com/user-attachments/assets/72dd1078-d6c4-42de-ba6f-60c78451d567" width="100%"> | |
+| <img src="https://github.com/user-attachments/assets/72dd1078-d6c4-42de-ba6f-60c78451d567" width="100%"> |
