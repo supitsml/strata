@@ -2,7 +2,7 @@
 
 # Strata
 
-Architecture review & feature showcase.
+feature showcase.
 
 | Wolf | TNT |
 | :--- | :--- |
@@ -40,6 +40,6 @@ Architecture review & feature showcase.
 | :--- | :--- |
 | <img src="https://github.com/user-attachments/assets/b05dea83-460e-4756-8191-b8e2d54229e9" width="100%"> | <img src="https://github.com/user-attachments/assets/42246721-0399-4862-9596-9f752f092d9d" width="100%"> |
 
-| Enchantment | |
+| Enchantment |
 | :--- | :--- |
 | <img src="https://github.com/user-attachments/assets/72dd1078-d6c4-42de-ba6f-60c78451d567" width="100%"> | |
